@@ -4,7 +4,7 @@ In this project, a website with a number of optimization-  and performance-relat
 after optimization, a target that PageSpeed score is above 90/100 for mobile and desktop and it runns
 60 frames per second should be achieved by using critical rendering path learned and Google DevTools.
 
-This project is hosted at: http://qqttss.github.io/project_4/
+This project is hosted at: http://qqttss.github.io/website-optimization/
 
 Part 1: Optimize PageSpeed Insights score for index.html
 
